@@ -1,0 +1,22 @@
+"AddonInfo"
+{
+  "TeamCount" "10"
+  "maps"      "veno_test"
+  "IsPlayable"  "1"
+  "template_map"
+  {
+          "MaxPlayers"                    "10"
+  }
+  "veno_test"
+  {
+          "MaxPlayers"                    "10"
+  }
+//  "desert_duo"
+//  {
+//          "MaxPlayers"                    "10"
+//  }
+//  "forest_solo"
+//  {
+//          "MaxPlayers"                    "10"
+//  }
+}
